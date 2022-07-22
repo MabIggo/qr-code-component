@@ -17,13 +17,13 @@ body{
 .container{
     /* this two way i know how to center div 
     let me know if there is another way*/
-    display: grid;
-    place-items: center;
-    /* display: flex;
+/*     display: grid;
+    place-items: center; */
+    display: flex;
     justify-content: center;
     align-items: center;
-    text-align: center; */
-    padding-top: 80px;
+    text-align: center;
+    height: 100vh;
     margin-bottom: 20px;
 }
 
